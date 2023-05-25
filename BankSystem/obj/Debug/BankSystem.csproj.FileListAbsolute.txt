@@ -1,0 +1,7 @@
+C:\Users\Tunahan\source\repos\BankSystem\BankSystem\bin\Debug\BankSystem.exe.config
+C:\Users\Tunahan\source\repos\BankSystem\BankSystem\bin\Debug\BankSystem.exe
+C:\Users\Tunahan\source\repos\BankSystem\BankSystem\bin\Debug\BankSystem.pdb
+C:\Users\Tunahan\source\repos\BankSystem\BankSystem\obj\Debug\BankSystem.csproj.AssemblyReference.cache
+C:\Users\Tunahan\source\repos\BankSystem\BankSystem\obj\Debug\BankSystem.csproj.CoreCompileInputs.cache
+C:\Users\Tunahan\source\repos\BankSystem\BankSystem\obj\Debug\BankSystem.exe
+C:\Users\Tunahan\source\repos\BankSystem\BankSystem\obj\Debug\BankSystem.pdb
